@@ -53,17 +53,17 @@ Evaluate the model
 
 ## Results  
 
-On English Dataset
+On English Dataset  
 
-![English](https://github.com/nilesh05apr/multico-ner/blob/main/results/english_test_metrics.png)
+![English](https://github.com/nilesh05apr/multico-ner/blob/main/results/english_test_metrics.png)  
 
-On Hindi Dataset
+On Hindi Dataset  
 
-![Hindi](https://github.com/nilesh05apr/multico-ner/blob/main/results/hindi_test_metrics.png)
+![Hindi](https://github.com/nilesh05apr/multico-ner/blob/main/results/hindi_test_metrics.png)  
 
-On Bangla Dataset
+On Bangla Dataset  
 
-![Bangla](https://github.com/nilesh05apr/multico-ner/blob/main/results/bengali_test_metrics.png)
+![Bangla](https://github.com/nilesh05apr/multico-ner/blob/main/results/bengali_test_metrics.png)  
 
 
 ## Refrences   
