@@ -51,5 +51,15 @@ Evaluate the model
  python -m evaluate --test /data/EN-English/en_test.conll  --out_dir /output/ --gpus 1 --encoder_model xlm-roberta-base --model /saved_models/xlmr_ner/lightning_logs/version_1/checkpoints/ --prefix xlmr_ner_results  
 ```
 
+## Results  
+
+On English Dataset
+
+
+
+
+
+
+
 ## Refrences   
 https://github.com/amzn/multiconer-baseline  
